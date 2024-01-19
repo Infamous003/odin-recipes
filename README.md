@@ -1,6 +1,4 @@
 # odin-recipes
 
-This repo is about recipes
-
-I will successfully complete the project
-and push it onto github.(27-Dec-2023)
+The first Odin Project.
+It is a simple recipe website with three recipes. 
